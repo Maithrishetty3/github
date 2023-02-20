@@ -1,2 +1,3 @@
 This is readme. file
-insert new lin:e
+insert new line 
+third line added.
